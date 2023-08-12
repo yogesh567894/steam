@@ -1,0 +1,131 @@
+.s2-1{
+    display: flex;
+    
+    position:absolute;
+    top: 668px;
+left: 1734px;
+width: 188px;
+height: 727px;
+/* UI Properties */
+background: transparent url('img/Path\ 1385\ \(1\).svg') 0% 0% no-repeat padding-box;
+opacity: 0.8;
+z-index: 1;
+
+   }
+   .s2-1-1{
+    display: inline;
+    position: absolute;
+   
+    top: 1225px;
+    left: 166px;
+    width: 0px;
+    height: 71px;
+    /* UI Properties */
+    border: 10px solid #519259;
+    opacity: 1;
+    
+  
+   }
+   .s2-1-2{
+    
+    position: absolute;
+    top: 1179px;
+left: 209px;
+width: 868px;
+height: 71px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 50px/76px Poppins;
+letter-spacing: 0px;
+color: #080808;
+opacity: 1;
+
+   }
+   .s2-2-1{
+    position: absolute;
+    top: 1369px;
+left: 52px;
+width: 840px;
+height: 567px;
+/* UI Properties */
+background: transparent url('img/Path\ 1379.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+background-color: white;
+
+   }
+   .s2-2-2{
+    position: absolute;
+    top: 1323px;
+left: 97px;
+width: 663px;
+height: 567px;
+/* UI Properties */
+background: transparent url('img/Path\ 1377.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+   }
+   .s2-2-3{
+    position: absolute;
+    top: 1369px;
+left: 163px;
+width: 304px;
+height: 228px;
+/* UI Properties */
+background: transparent url('img/Image\ 20.png') 0% 0% no-repeat padding-box;
+border-radius: 30px;
+opacity: 1;
+   }
+   .s2-2-4{
+    position: absolute;
+    top: 1641px;
+left: 166px;
+width: 298px;
+height: 199px;
+/* UI Properties */
+background: transparent url('img/Image\ 22.png') 0% 0% no-repeat padding-box;
+border-radius: 30px;
+opacity: 1;
+   }
+   .s2-2-5{
+    position: absolute;
+    top: 1369px;
+left: 489px;
+width: 270px;
+height: 470px;
+/* UI Properties */
+background: transparent url('img/Image\ 21.png') 0% 0% no-repeat padding-box;
+border-radius: 30px;
+opacity: 1;
+
+   }
+
+   
+   .s2-3-1{
+    position: absolute;
+    top: 1395px;
+left: 874px;
+right: 144.05;
+width: 902px;
+height: 469px;
+text-align: left;
+font-style: normal;
+font-variant: normal;
+font-weight: medium;
+font-size: 35px;
+line-height: 55px;
+font-family: Poppins;
+letter-spacing: 0px;
+color: #080808;
+size: 36px;
+opacity: 1;
+   }
+   .s3-1-1{
+    position: absolute;
+    top: 2032px;
+left: 1657px;
+width: 191px;
+height: 183px;
+/* UI Properties */
+background: transparent url('img/Group\ 171.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+   }

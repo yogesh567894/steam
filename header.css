@@ -1,0 +1,75 @@
+.header {
+    display: flex;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 120px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 15px #00483524;
+    opacity: 1;
+    }
+    
+    .left-section {
+      display: flex;
+     
+      top: 0px;
+      left: 99px;
+      width: 396px;
+      height: 126px;
+      /* UI Properties */
+      background: transparent url('img/Artboard\ –\ 1.png') 0% 0% no-repeat padding-box;
+      opacity: 1;
+      
+    }
+    
+   
+    
+    .middle-section {
+      display: flex;
+      position: absolute;
+      
+  
+  
+        top: 41px;
+        left: 704px;
+        width: 1080px;
+        height: 51px;
+        /* UI Properties */
+        opacity: 1;
+    }
+    
+    
+    
+   
+    .tmenu{
+      
+      left: 1151px;
+      width: 160px;
+      height: 40px;
+      /* UI Properties */
+      text-align: center;
+      font: normal normal 600 30px/40px Segoe UI;
+      letter-spacing: 0px;
+      color: #519259;
+      opacity: 1;
+    }
+    .tmenu:hover{  
+      /* UI Properties */
+      border-bottom: 5px solid #064635;
+      opacity: 1;
+      cursor: pointer;
+      }
+    
+    .hmenu{
+      
+      left: 1151px;
+      width: 160px;
+      height: 40px;
+      /* UI Properties */
+      text-align: center;
+      font: normal normal 600 30px/40px Segoe UI;
+      letter-spacing: 0px;
+      color: #519259;
+      opacity: 1;
+    }
